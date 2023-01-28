@@ -1,2 +1,2 @@
-# goAPI
-Golang API
+# simpleGoCRUDAPI
+Simple Golang CRUD API
